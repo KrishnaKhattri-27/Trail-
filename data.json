@@ -34,11 +34,6 @@
       "description": "/pointsDesigned the complete user experiences & interfaces for the DotNames, DotShm, DotTaiko, DotZeta, DotOmni and DotSei platforms, adhering to design principles. I created wireframes, prototypes, 3D structures, and high-fidelity mockups using tools like Figma, and Spline./breakBuilt a protocol that have helped the user to earn through web3 identity./breakDesigned social media creatives specifically for Twitter, helping the page grow from 100 to 140k followers.",
       "projects": [
         {
-          "title": "https://www.wall.app/",
-          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/1717122476373_ndnspz.jpg",
-          "_id": "66a936783e5191c013807b77"
-        },
-        {
           "title": "https://www.dotnames.me/",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/DotNames_t9yexy.jpg",
           "_id": "66a936783e5191c013807b78"
@@ -178,5 +173,5 @@
     "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_2_imowit.jpg",
     "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_3_qo2rcp.jpg"
   ],
-  "__v": 70
+  "__v": 71
 }
